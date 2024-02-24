@@ -1,3 +1,5 @@
+How To find duplicate elements in array in javascript
+
 function findDuplicates(arr) {
   const duplicates = {};
   const result = [];
